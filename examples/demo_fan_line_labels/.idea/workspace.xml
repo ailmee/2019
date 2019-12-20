@@ -1,0 +1,1453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8a6ac4e-8460-4eb7-bf9c-226a7cb72015" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="353">
+              <caret line="27" column="42" lean-forward="true" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+              <folding>
+                <element signature="e#1460#2150#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="markUtil.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/markUtil.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="361" column="55" lean-forward="false" selection-start-line="361" selection-start-column="50" selection-end-line="361" selection-end-column="55" />
+              <folding>
+                <element signature="e#16#5454#0" expanded="false" />
+                <element signature="e#44#480#0" expanded="false" />
+                <element signature="e#511#1075#0" expanded="false" />
+                <element signature="e#1105#1719#0" expanded="false" />
+                <element signature="e#1766#2952#0" expanded="false" />
+                <element signature="e#2472#2502#0" expanded="false" />
+                <element signature="e#2984#3915#0" expanded="false" />
+                <element signature="e#3946#5441#0" expanded="false" />
+                <element signature="e#5473#5642#0" expanded="false" />
+                <element signature="e#5662#5813#0" expanded="false" />
+                <element signature="e#5842#7174#0" expanded="false" />
+                <element signature="e#5853#6004#0" expanded="false" />
+                <element signature="e#6014#6864#0" expanded="false" />
+                <element signature="e#6877#7172#0" expanded="false" />
+                <element signature="n#!!block;n#createTags#0" expanded="false" />
+                <element signature="e#7983#8077#0" expanded="false" />
+                <element signature="e#8376#8945#0" expanded="false" />
+                <element signature="e#8565#8675#0" expanded="false" />
+                <element signature="n#!!block;n#ceilPowerOfTwo#0" expanded="false" />
+                <element signature="n#!!block;n#createCanvasN#0" expanded="false" />
+                <element signature="e#10856#10883#0" expanded="false" />
+                <element signature="e#11415#26083#0" expanded="false" />
+                <element signature="e#11560#12016#0" expanded="false" />
+                <element signature="e#12062#20235#0" expanded="false" />
+                <element signature="e#12289#12793#0" expanded="false" />
+                <element signature="e#12834#13133#0" expanded="false" />
+                <element signature="e#13413#13700#0" expanded="false" />
+                <element signature="e#14218#14290#0" expanded="false" />
+                <element signature="e#14482#14540#0" expanded="false" />
+                <element signature="e#14598#20045#0" expanded="false" />
+                <element signature="e#15468#16733#0" expanded="false" />
+                <element signature="e#16818#17323#0" expanded="false" />
+                <element signature="e#17766#19502#0" expanded="false" />
+                <element signature="e#18562#19263#0" expanded="false" />
+                <element signature="e#19537#20009#0" expanded="false" />
+                <element signature="e#20296#21704#0" expanded="false" />
+                <element signature="e#21927#22343#0" expanded="false" />
+                <element signature="e#22877#23547#0" expanded="false" />
+                <element signature="e#24007#25811#0" expanded="false" />
+                <element signature="e#24655#24746#0" expanded="false" />
+                <element signature="e#25245#25493#0" expanded="false" />
+                <element signature="e#25857#26081#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ceilPower</find>
+      <find>offsetY</find>
+      <find>borderWidth</find>
+      <find>openEnded</find>
+      <find>num</find>
+      <find>perimeter</find>
+      <find>ratio</find>
+      <find>createTags</find>
+      <find>parmLine</find>
+      <find>_animation</find>
+      <find>translate</find>
+      <find>u_time</find>
+      <find>offset</find>
+      <find>df_Clock</find>
+      <find>elapsedTime</find>
+      <find>df_raf</find>
+      <find>createCanvasT</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../../代码注入.js" />
+        <option value="$PROJECT_DIR$/js/base.js" />
+        <option value="$PROJECT_DIR$/js/min.js" />
+        <option value="$PROJECT_DIR$/js/markUtil.js" />
+        <option value="$PROJECT_DIR$/js/markUtil.min.LLL.js" />
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="D:/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="js-jscs-nodeInterpreter" value="D:\nodejs\node.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspance\demo\images" />
+      <recent name="D:\workspance\demo" />
+      <recent name="D:\workspance\demo\js" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8a6ac4e-8460-4eb7-bf9c-226a7cb72015" name="Default" comment="" />
+      <created>1574077225468</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574077225468</updated>
+      <workItem from="1574077227280" duration="592000" />
+      <workItem from="1574077897716" duration="2675000" />
+      <workItem from="1574125106273" duration="32354000" />
+      <workItem from="1574212259126" duration="25468000" />
+      <workItem from="1574297966240" duration="32000" />
+      <workItem from="1574306896250" duration="80000" />
+      <workItem from="1574825178974" duration="1136000" />
+      <workItem from="1574926813173" duration="757000" />
+      <workItem from="1574928403042" duration="686000" />
+      <workItem from="1574939465155" duration="1035000" />
+      <workItem from="1575018948051" duration="101000" />
+      <workItem from="1575021461287" duration="809000" />
+      <workItem from="1575273251983" duration="791000" />
+      <workItem from="1575376186974" duration="140000" />
+      <workItem from="1576809766360" duration="323000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="66979000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24260043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="22" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1460#2150#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/markUtil.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="361" column="55" lean-forward="false" selection-start-line="361" selection-start-column="50" selection-end-line="361" selection-end-column="55" />
+          <folding>
+            <element signature="e#16#5454#0" expanded="false" />
+            <element signature="e#44#480#0" expanded="false" />
+            <element signature="e#511#1075#0" expanded="false" />
+            <element signature="e#1105#1719#0" expanded="false" />
+            <element signature="e#1766#2952#0" expanded="false" />
+            <element signature="e#2472#2502#0" expanded="false" />
+            <element signature="e#2984#3915#0" expanded="false" />
+            <element signature="e#3946#5441#0" expanded="false" />
+            <element signature="e#5473#5642#0" expanded="false" />
+            <element signature="e#5662#5813#0" expanded="false" />
+            <element signature="e#5842#7174#0" expanded="false" />
+            <element signature="e#5853#6004#0" expanded="false" />
+            <element signature="e#6014#6864#0" expanded="false" />
+            <element signature="e#6877#7172#0" expanded="false" />
+            <element signature="n#!!block;n#createTags#0" expanded="false" />
+            <element signature="e#7983#8077#0" expanded="false" />
+            <element signature="e#8376#8945#0" expanded="false" />
+            <element signature="e#8565#8675#0" expanded="false" />
+            <element signature="n#!!block;n#ceilPowerOfTwo#0" expanded="false" />
+            <element signature="n#!!block;n#createCanvasN#0" expanded="false" />
+            <element signature="e#10856#10883#0" expanded="false" />
+            <element signature="e#11415#26083#0" expanded="false" />
+            <element signature="e#11560#12016#0" expanded="false" />
+            <element signature="e#12062#20235#0" expanded="false" />
+            <element signature="e#12289#12793#0" expanded="false" />
+            <element signature="e#12834#13133#0" expanded="false" />
+            <element signature="e#13413#13700#0" expanded="false" />
+            <element signature="e#14218#14290#0" expanded="false" />
+            <element signature="e#14482#14540#0" expanded="false" />
+            <element signature="e#14598#20045#0" expanded="false" />
+            <element signature="e#15468#16733#0" expanded="false" />
+            <element signature="e#16818#17323#0" expanded="false" />
+            <element signature="e#17766#19502#0" expanded="false" />
+            <element signature="e#18562#19263#0" expanded="false" />
+            <element signature="e#19537#20009#0" expanded="false" />
+            <element signature="e#20296#21704#0" expanded="false" />
+            <element signature="e#21927#22343#0" expanded="false" />
+            <element signature="e#22877#23547#0" expanded="false" />
+            <element signature="e#24007#25811#0" expanded="false" />
+            <element signature="e#24655#24746#0" expanded="false" />
+            <element signature="e#25245#25493#0" expanded="false" />
+            <element signature="e#25857#26081#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="44" column="43" lean-forward="true" selection-start-line="44" selection-start-column="43" selection-end-line="44" selection-end-column="43" />
+          <folding>
+            <element signature="e#1460#2150#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/markUtil.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#16#5454#0" expanded="false" />
+            <element signature="e#44#480#0" expanded="false" />
+            <element signature="e#511#1075#0" expanded="false" />
+            <element signature="e#1105#1719#0" expanded="false" />
+            <element signature="e#1766#2952#0" expanded="false" />
+            <element signature="e#2472#2502#0" expanded="false" />
+            <element signature="e#2984#3915#0" expanded="false" />
+            <element signature="e#3946#5441#0" expanded="false" />
+            <element signature="e#5473#5642#0" expanded="false" />
+            <element signature="e#5662#5813#0" expanded="false" />
+            <element signature="e#5842#7174#0" expanded="false" />
+            <element signature="e#5853#6004#0" expanded="false" />
+            <element signature="e#6014#6864#0" expanded="false" />
+            <element signature="e#6877#7172#0" expanded="false" />
+            <element signature="n#!!block;n#createTags#0" expanded="false" />
+            <element signature="e#7983#8077#0" expanded="false" />
+            <element signature="e#8376#8945#0" expanded="false" />
+            <element signature="e#8565#8675#0" expanded="false" />
+            <element signature="n#!!block;n#ceilPowerOfTwo#0" expanded="false" />
+            <element signature="n#!!block;n#createCanvasN#0" expanded="false" />
+            <element signature="e#10856#10883#0" expanded="false" />
+            <element signature="e#11415#26083#0" expanded="false" />
+            <element signature="e#11560#12016#0" expanded="false" />
+            <element signature="e#12062#20235#0" expanded="false" />
+            <element signature="e#12289#12793#0" expanded="false" />
+            <element signature="e#12834#13133#0" expanded="false" />
+            <element signature="e#13413#13700#0" expanded="false" />
+            <element signature="e#14218#14290#0" expanded="false" />
+            <element signature="e#14482#14540#0" expanded="false" />
+            <element signature="e#14598#20045#0" expanded="false" />
+            <element signature="e#15468#16733#0" expanded="false" />
+            <element signature="e#16818#17323#0" expanded="false" />
+            <element signature="e#17766#19502#0" expanded="false" />
+            <element signature="e#18562#19263#0" expanded="false" />
+            <element signature="e#19537#20009#0" expanded="false" />
+            <element signature="e#20296#21704#0" expanded="false" />
+            <element signature="e#21927#22343#0" expanded="false" />
+            <element signature="e#22877#23547#0" expanded="false" />
+            <element signature="e#24007#25811#0" expanded="false" />
+            <element signature="e#24655#24746#0" expanded="false" />
+            <element signature="e#25245#25493#0" expanded="false" />
+            <element signature="e#25857#26081#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="44" column="43" lean-forward="true" selection-start-line="44" selection-start-column="43" selection-end-line="44" selection-end-column="43" />
+          <folding>
+            <element signature="e#1460#2150#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/markUtil.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#16#5454#0" expanded="false" />
+            <element signature="e#44#480#0" expanded="false" />
+            <element signature="e#511#1075#0" expanded="false" />
+            <element signature="e#1105#1719#0" expanded="false" />
+            <element signature="e#1766#2952#0" expanded="false" />
+            <element signature="e#2472#2502#0" expanded="false" />
+            <element signature="e#2984#3915#0" expanded="false" />
+            <element signature="e#3946#5441#0" expanded="false" />
+            <element signature="e#5473#5642#0" expanded="false" />
+            <element signature="e#5662#5813#0" expanded="false" />
+            <element signature="e#5842#7174#0" expanded="false" />
+            <element signature="e#5853#6004#0" expanded="false" />
+            <element signature="e#6014#6864#0" expanded="false" />
+            <element signature="e#6877#7172#0" expanded="false" />
+            <element signature="n#!!block;n#createTags#0" expanded="false" />
+            <element signature="e#7983#8077#0" expanded="false" />
+            <element signature="e#8376#8945#0" expanded="false" />
+            <element signature="e#8565#8675#0" expanded="false" />
+            <element signature="n#!!block;n#ceilPowerOfTwo#0" expanded="false" />
+            <element signature="n#!!block;n#createCanvasN#0" expanded="false" />
+            <element signature="e#10856#10883#0" expanded="false" />
+            <element signature="e#11415#26083#0" expanded="false" />
+            <element signature="e#11560#12016#0" expanded="false" />
+            <element signature="e#12062#20235#0" expanded="false" />
+            <element signature="e#12289#12793#0" expanded="false" />
+            <element signature="e#12834#13133#0" expanded="false" />
+            <element signature="e#13413#13700#0" expanded="false" />
+            <element signature="e#14218#14290#0" expanded="false" />
+            <element signature="e#14482#14540#0" expanded="false" />
+            <element signature="e#14598#20045#0" expanded="false" />
+            <element signature="e#15468#16733#0" expanded="false" />
+            <element signature="e#16818#17323#0" expanded="false" />
+            <element signature="e#17766#19502#0" expanded="false" />
+            <element signature="e#18562#19263#0" expanded="false" />
+            <element signature="e#19537#20009#0" expanded="false" />
+            <element signature="e#20296#21704#0" expanded="false" />
+            <element signature="e#21927#22343#0" expanded="false" />
+            <element signature="e#22877#23547#0" expanded="false" />
+            <element signature="e#24007#25811#0" expanded="false" />
+            <element signature="e#24655#24746#0" expanded="false" />
+            <element signature="e#25245#25493#0" expanded="false" />
+            <element signature="e#25857#26081#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="83" column="39" lean-forward="false" selection-start-line="83" selection-start-column="28" selection-end-line="83" selection-end-column="39" />
+          <folding>
+            <element signature="e#1460#2150#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/base.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#340#538#0" expanded="false" />
+            <element signature="e#557#568#0" expanded="false" />
+            <element signature="e#2198#2971#0" expanded="false" />
+            <element signature="e#3027#3085#0" expanded="false" />
+            <element signature="e#3125#3190#0" expanded="false" />
+            <element signature="e#3236#3305#0" expanded="false" />
+            <element signature="n#!!block;n#initiate#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#4282#4758#0" expanded="false" />
+            <element signature="e#4793#5405#0" expanded="false" />
+            <element signature="e#6942#6972#0" expanded="false" />
+            <element signature="e#7498#8517#0" expanded="false" />
+            <element signature="e#8552#10179#0" expanded="false" />
+            <element signature="e#10220#10401#0" expanded="false" />
+            <element signature="e#10426#10648#0" expanded="false" />
+            <element signature="n#!!block;n#initObject3D#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#createSector#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#_creatCylGeo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#14426#15591#0" expanded="false" />
+            <element signature="e#15668#16129#0" expanded="false" />
+            <element signature="n#!!block;n#generateCap#0;n#!!block;n#_creatCylGeo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#17261#17898#0" expanded="false" />
+            <element signature="n#!!block;n#planeData#0;n#!!block;n#_creatCylGeo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#_getPolygonPerimeter#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#_updateSectorData#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#19220#19544#0" expanded="false" />
+            <element signature="n#!!block;n#createLine#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#20788#21204#0" expanded="false" />
+            <element signature="e#21668#22338#0" expanded="false" />
+            <element signature="n#!!block;n#_updatePointData#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#23402#23493#0" expanded="false" />
+            <element signature="e#23545#24029#0" expanded="false" />
+            <element signature="e#24498#24734#0" expanded="false" />
+            <element signature="n#!!block;n#createTags#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#25607#25717#0" expanded="false" />
+            <element signature="e#26242#26368#0" expanded="false" />
+            <element signature="n#!!block;n#ceilPowerOfTwo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#createCanvasN#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#createCanvasT#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#28897#28924#0" expanded="false" />
+            <element signature="n#!!block;n#animation#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#renderers#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#disposeObj#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#objectTraverse#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#disposeMaterial#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#toFunction#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#getWH#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#detector#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#parseCts#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#creatContainer#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#creatError#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="83" column="39" lean-forward="false" selection-start-line="83" selection-start-column="28" selection-end-line="83" selection-end-column="39" />
+          <folding>
+            <element signature="e#1460#2150#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/base.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#340#538#0" expanded="false" />
+            <element signature="e#557#568#0" expanded="false" />
+            <element signature="e#2198#2971#0" expanded="false" />
+            <element signature="e#3027#3085#0" expanded="false" />
+            <element signature="e#3125#3190#0" expanded="false" />
+            <element signature="e#3236#3305#0" expanded="false" />
+            <element signature="n#!!block;n#initiate#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#4282#4758#0" expanded="false" />
+            <element signature="e#4793#5405#0" expanded="false" />
+            <element signature="e#6942#6972#0" expanded="false" />
+            <element signature="e#7498#8517#0" expanded="false" />
+            <element signature="e#8552#10179#0" expanded="false" />
+            <element signature="e#10220#10401#0" expanded="false" />
+            <element signature="e#10426#10648#0" expanded="false" />
+            <element signature="n#!!block;n#initObject3D#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#createSector#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#_creatCylGeo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#14426#15591#0" expanded="false" />
+            <element signature="e#15668#16129#0" expanded="false" />
+            <element signature="n#!!block;n#generateCap#0;n#!!block;n#_creatCylGeo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#17261#17898#0" expanded="false" />
+            <element signature="n#!!block;n#planeData#0;n#!!block;n#_creatCylGeo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#_getPolygonPerimeter#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#_updateSectorData#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#19220#19544#0" expanded="false" />
+            <element signature="n#!!block;n#createLine#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#20788#21204#0" expanded="false" />
+            <element signature="e#21668#22338#0" expanded="false" />
+            <element signature="n#!!block;n#_updatePointData#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#23402#23493#0" expanded="false" />
+            <element signature="e#23545#24029#0" expanded="false" />
+            <element signature="e#24498#24734#0" expanded="false" />
+            <element signature="n#!!block;n#createTags#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#25607#25717#0" expanded="false" />
+            <element signature="e#26242#26368#0" expanded="false" />
+            <element signature="n#!!block;n#ceilPowerOfTwo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#createCanvasN#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#createCanvasT#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#28897#28924#0" expanded="false" />
+            <element signature="n#!!block;n#animation#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#renderers#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#disposeObj#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#objectTraverse#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#disposeMaterial#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#toFunction#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#getWH#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#detector#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#parseCts#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#creatContainer#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#creatError#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="83" column="39" lean-forward="false" selection-start-line="83" selection-start-column="28" selection-end-line="83" selection-end-column="39" />
+          <folding>
+            <element signature="e#1460#2150#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/base.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#340#538#0" expanded="false" />
+            <element signature="e#557#568#0" expanded="false" />
+            <element signature="e#2198#2971#0" expanded="false" />
+            <element signature="e#3027#3085#0" expanded="false" />
+            <element signature="e#3125#3190#0" expanded="false" />
+            <element signature="e#3236#3305#0" expanded="false" />
+            <element signature="n#!!block;n#initiate#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#4282#4758#0" expanded="false" />
+            <element signature="e#4793#5405#0" expanded="false" />
+            <element signature="e#6942#6972#0" expanded="false" />
+            <element signature="e#7498#8517#0" expanded="false" />
+            <element signature="e#8552#10179#0" expanded="false" />
+            <element signature="e#10220#10401#0" expanded="false" />
+            <element signature="e#10426#10648#0" expanded="false" />
+            <element signature="n#!!block;n#initObject3D#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#createSector#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#_creatCylGeo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#14426#15591#0" expanded="false" />
+            <element signature="e#15668#16129#0" expanded="false" />
+            <element signature="n#!!block;n#generateCap#0;n#!!block;n#_creatCylGeo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#17261#17898#0" expanded="false" />
+            <element signature="n#!!block;n#planeData#0;n#!!block;n#_creatCylGeo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#_getPolygonPerimeter#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#_updateSectorData#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#19220#19544#0" expanded="false" />
+            <element signature="n#!!block;n#createLine#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#20788#21204#0" expanded="false" />
+            <element signature="e#21668#22338#0" expanded="false" />
+            <element signature="n#!!block;n#_updatePointData#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#23402#23493#0" expanded="false" />
+            <element signature="e#23545#24029#0" expanded="false" />
+            <element signature="e#24498#24734#0" expanded="false" />
+            <element signature="n#!!block;n#createTags#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#25607#25717#0" expanded="false" />
+            <element signature="e#26242#26368#0" expanded="false" />
+            <element signature="n#!!block;n#ceilPowerOfTwo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#createCanvasN#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#createCanvasT#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#28897#28924#0" expanded="false" />
+            <element signature="n#!!block;n#animation#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#renderers#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#disposeObj#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#objectTraverse#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#disposeMaterial#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#toFunction#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#getWH#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#detector#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#parseCts#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#creatContainer#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#creatError#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="83" column="39" lean-forward="false" selection-start-line="83" selection-start-column="28" selection-end-line="83" selection-end-column="39" />
+          <folding>
+            <element signature="e#1460#2150#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/base.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#340#538#0" expanded="false" />
+            <element signature="e#557#568#0" expanded="false" />
+            <element signature="e#2198#2971#0" expanded="false" />
+            <element signature="e#3027#3085#0" expanded="false" />
+            <element signature="e#3125#3190#0" expanded="false" />
+            <element signature="e#3236#3305#0" expanded="false" />
+            <element signature="n#!!block;n#initiate#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#4282#4758#0" expanded="false" />
+            <element signature="e#4793#5405#0" expanded="false" />
+            <element signature="e#6942#6972#0" expanded="false" />
+            <element signature="e#7498#8517#0" expanded="false" />
+            <element signature="e#8552#10179#0" expanded="false" />
+            <element signature="e#10220#10401#0" expanded="false" />
+            <element signature="e#10426#10648#0" expanded="false" />
+            <element signature="n#!!block;n#initObject3D#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#createSector#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#_creatCylGeo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#14426#15591#0" expanded="false" />
+            <element signature="e#15668#16129#0" expanded="false" />
+            <element signature="n#!!block;n#generateCap#0;n#!!block;n#_creatCylGeo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#17261#17898#0" expanded="false" />
+            <element signature="n#!!block;n#planeData#0;n#!!block;n#_creatCylGeo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#_getPolygonPerimeter#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#_updateSectorData#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#19220#19544#0" expanded="false" />
+            <element signature="n#!!block;n#createLine#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#20788#21204#0" expanded="false" />
+            <element signature="e#21668#22338#0" expanded="false" />
+            <element signature="n#!!block;n#_updatePointData#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#23402#23493#0" expanded="false" />
+            <element signature="e#23545#24029#0" expanded="false" />
+            <element signature="e#24498#24734#0" expanded="false" />
+            <element signature="n#!!block;n#createTags#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#25607#25717#0" expanded="false" />
+            <element signature="e#26242#26368#0" expanded="false" />
+            <element signature="n#!!block;n#ceilPowerOfTwo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#createCanvasN#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#createCanvasT#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#28897#28924#0" expanded="false" />
+            <element signature="n#!!block;n#animation#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#renderers#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#disposeObj#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#objectTraverse#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#disposeMaterial#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#toFunction#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#getWH#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#detector#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#parseCts#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#creatContainer#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#creatError#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="83" column="39" lean-forward="false" selection-start-line="83" selection-start-column="28" selection-end-line="83" selection-end-column="39" />
+          <folding>
+            <element signature="e#1460#2150#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/base.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#340#538#0" expanded="false" />
+            <element signature="e#557#568#0" expanded="false" />
+            <element signature="e#2198#2971#0" expanded="false" />
+            <element signature="e#3027#3085#0" expanded="false" />
+            <element signature="e#3125#3190#0" expanded="false" />
+            <element signature="e#3236#3305#0" expanded="false" />
+            <element signature="n#!!block;n#initiate#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#4282#4758#0" expanded="false" />
+            <element signature="e#4793#5405#0" expanded="false" />
+            <element signature="e#6942#6972#0" expanded="false" />
+            <element signature="e#7498#8517#0" expanded="false" />
+            <element signature="e#8552#10179#0" expanded="false" />
+            <element signature="e#10220#10401#0" expanded="false" />
+            <element signature="e#10426#10648#0" expanded="false" />
+            <element signature="n#!!block;n#initObject3D#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#createSector#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#_creatCylGeo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#14426#15591#0" expanded="false" />
+            <element signature="e#15668#16129#0" expanded="false" />
+            <element signature="n#!!block;n#generateCap#0;n#!!block;n#_creatCylGeo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#17261#17898#0" expanded="false" />
+            <element signature="n#!!block;n#planeData#0;n#!!block;n#_creatCylGeo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#_getPolygonPerimeter#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#_updateSectorData#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#19220#19544#0" expanded="false" />
+            <element signature="n#!!block;n#createLine#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#20788#21204#0" expanded="false" />
+            <element signature="e#21668#22338#0" expanded="false" />
+            <element signature="n#!!block;n#_updatePointData#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#23402#23493#0" expanded="false" />
+            <element signature="e#23545#24029#0" expanded="false" />
+            <element signature="e#24498#24734#0" expanded="false" />
+            <element signature="n#!!block;n#createTags#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#25607#25717#0" expanded="false" />
+            <element signature="e#26242#26368#0" expanded="false" />
+            <element signature="n#!!block;n#ceilPowerOfTwo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#createCanvasN#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#createCanvasT#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#28897#28924#0" expanded="false" />
+            <element signature="n#!!block;n#animation#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#renderers#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#disposeObj#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#objectTraverse#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#disposeMaterial#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#toFunction#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#getWH#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#detector#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#parseCts#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#creatContainer#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#creatError#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="83" column="39" lean-forward="false" selection-start-line="83" selection-start-column="28" selection-end-line="83" selection-end-column="39" />
+          <folding>
+            <element signature="e#1460#2150#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/base.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#340#538#0" expanded="false" />
+            <element signature="e#557#568#0" expanded="false" />
+            <element signature="e#2198#2971#0" expanded="false" />
+            <element signature="e#3027#3085#0" expanded="false" />
+            <element signature="e#3125#3190#0" expanded="false" />
+            <element signature="e#3236#3305#0" expanded="false" />
+            <element signature="n#!!block;n#initiate#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#4282#4758#0" expanded="false" />
+            <element signature="e#4793#5405#0" expanded="false" />
+            <element signature="e#6942#6972#0" expanded="false" />
+            <element signature="e#7498#8517#0" expanded="false" />
+            <element signature="e#8552#10179#0" expanded="false" />
+            <element signature="e#10220#10401#0" expanded="false" />
+            <element signature="e#10426#10648#0" expanded="false" />
+            <element signature="n#!!block;n#initObject3D#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#createSector#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#_creatCylGeo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#14426#15591#0" expanded="false" />
+            <element signature="e#15668#16129#0" expanded="false" />
+            <element signature="n#!!block;n#generateCap#0;n#!!block;n#_creatCylGeo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#17261#17898#0" expanded="false" />
+            <element signature="n#!!block;n#planeData#0;n#!!block;n#_creatCylGeo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#_getPolygonPerimeter#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#_updateSectorData#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#19220#19544#0" expanded="false" />
+            <element signature="n#!!block;n#createLine#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#20788#21204#0" expanded="false" />
+            <element signature="e#21668#22338#0" expanded="false" />
+            <element signature="n#!!block;n#_updatePointData#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#23402#23493#0" expanded="false" />
+            <element signature="e#23545#24029#0" expanded="false" />
+            <element signature="e#24498#24734#0" expanded="false" />
+            <element signature="n#!!block;n#createTags#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#25607#25717#0" expanded="false" />
+            <element signature="e#26242#26368#0" expanded="false" />
+            <element signature="n#!!block;n#ceilPowerOfTwo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#createCanvasN#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#createCanvasT#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#28897#28924#0" expanded="false" />
+            <element signature="n#!!block;n#animation#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#renderers#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#disposeObj#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#objectTraverse#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#disposeMaterial#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#toFunction#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#getWH#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#detector#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#parseCts#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#creatContainer#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#creatError#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="83" column="39" lean-forward="false" selection-start-line="83" selection-start-column="28" selection-end-line="83" selection-end-column="39" />
+          <folding>
+            <element signature="e#1460#2150#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/base.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#340#538#0" expanded="false" />
+            <element signature="e#557#568#0" expanded="false" />
+            <element signature="e#2198#2971#0" expanded="false" />
+            <element signature="e#3027#3085#0" expanded="false" />
+            <element signature="e#3125#3190#0" expanded="false" />
+            <element signature="e#3236#3305#0" expanded="false" />
+            <element signature="n#!!block;n#initiate#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#4282#4758#0" expanded="false" />
+            <element signature="e#4793#5405#0" expanded="false" />
+            <element signature="e#6942#6972#0" expanded="false" />
+            <element signature="e#7498#8517#0" expanded="false" />
+            <element signature="e#8552#10179#0" expanded="false" />
+            <element signature="e#10220#10401#0" expanded="false" />
+            <element signature="e#10426#10648#0" expanded="false" />
+            <element signature="n#!!block;n#initObject3D#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#createSector#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#_creatCylGeo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#14426#15591#0" expanded="false" />
+            <element signature="e#15668#16129#0" expanded="false" />
+            <element signature="n#!!block;n#generateCap#0;n#!!block;n#_creatCylGeo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#17261#17898#0" expanded="false" />
+            <element signature="n#!!block;n#planeData#0;n#!!block;n#_creatCylGeo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#_getPolygonPerimeter#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#_updateSectorData#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#19220#19544#0" expanded="false" />
+            <element signature="n#!!block;n#createLine#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#20788#21204#0" expanded="false" />
+            <element signature="e#21668#22338#0" expanded="false" />
+            <element signature="n#!!block;n#_updatePointData#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#23402#23493#0" expanded="false" />
+            <element signature="e#23545#24029#0" expanded="false" />
+            <element signature="e#24498#24734#0" expanded="false" />
+            <element signature="n#!!block;n#createTags#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#25607#25717#0" expanded="false" />
+            <element signature="e#26242#26368#0" expanded="false" />
+            <element signature="n#!!block;n#ceilPowerOfTwo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#createCanvasN#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#createCanvasT#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#28897#28924#0" expanded="false" />
+            <element signature="n#!!block;n#animation#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#renderers#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#disposeObj#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#objectTraverse#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#disposeMaterial#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#toFunction#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#getWH#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#detector#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#parseCts#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#creatContainer#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#creatError#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2075">
+          <caret line="83" column="39" lean-forward="false" selection-start-line="83" selection-start-column="28" selection-end-line="83" selection-end-column="39" />
+          <folding>
+            <element signature="e#1460#2150#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/base.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#340#538#0" expanded="false" />
+            <element signature="e#557#568#0" expanded="false" />
+            <element signature="e#2198#2971#0" expanded="false" />
+            <element signature="e#3027#3085#0" expanded="false" />
+            <element signature="e#3125#3190#0" expanded="false" />
+            <element signature="e#3236#3305#0" expanded="false" />
+            <element signature="n#!!block;n#initiate#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#4282#4758#0" expanded="false" />
+            <element signature="e#4793#5405#0" expanded="false" />
+            <element signature="e#6942#6972#0" expanded="false" />
+            <element signature="e#7498#8517#0" expanded="false" />
+            <element signature="e#8552#10179#0" expanded="false" />
+            <element signature="e#10220#10401#0" expanded="false" />
+            <element signature="e#10426#10648#0" expanded="false" />
+            <element signature="n#!!block;n#initObject3D#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#createSector#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#_creatCylGeo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#14426#15591#0" expanded="false" />
+            <element signature="e#15668#16129#0" expanded="false" />
+            <element signature="n#!!block;n#generateCap#0;n#!!block;n#_creatCylGeo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#17261#17898#0" expanded="false" />
+            <element signature="n#!!block;n#planeData#0;n#!!block;n#_creatCylGeo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#_getPolygonPerimeter#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#_updateSectorData#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#19220#19544#0" expanded="false" />
+            <element signature="n#!!block;n#createLine#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#20788#21204#0" expanded="false" />
+            <element signature="e#21668#22338#0" expanded="false" />
+            <element signature="n#!!block;n#_updatePointData#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#23402#23493#0" expanded="false" />
+            <element signature="e#23545#24029#0" expanded="false" />
+            <element signature="e#24498#24734#0" expanded="false" />
+            <element signature="n#!!block;n#createTags#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#25607#25717#0" expanded="false" />
+            <element signature="e#26242#26368#0" expanded="false" />
+            <element signature="n#!!block;n#ceilPowerOfTwo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#createCanvasN#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#createCanvasT#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#28897#28924#0" expanded="false" />
+            <element signature="n#!!block;n#animation#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#renderers#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#disposeObj#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#objectTraverse#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#disposeMaterial#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#toFunction#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#getWH#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#detector#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#parseCts#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#creatContainer#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#creatError#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1460#2150#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/base.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1900">
+          <caret line="167" column="22" lean-forward="false" selection-start-line="167" selection-start-column="22" selection-end-line="167" selection-end-column="22" />
+          <folding>
+            <element signature="e#340#538#0" expanded="false" />
+            <element signature="e#557#568#0" expanded="false" />
+            <element signature="e#2198#2971#0" expanded="false" />
+            <element signature="e#3027#3085#0" expanded="false" />
+            <element signature="e#3125#3190#0" expanded="false" />
+            <element signature="e#3236#3305#0" expanded="false" />
+            <element signature="n#!!block;n#initiate#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#4282#4758#0" expanded="false" />
+            <element signature="e#4793#5405#0" expanded="false" />
+            <element signature="e#6942#6972#0" expanded="false" />
+            <element signature="e#7498#8517#0" expanded="false" />
+            <element signature="e#8552#10179#0" expanded="false" />
+            <element signature="e#10220#10401#0" expanded="false" />
+            <element signature="e#10426#10648#0" expanded="false" />
+            <element signature="n#!!block;n#initObject3D#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#createSector#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#_creatCylGeo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#14426#15591#0" expanded="false" />
+            <element signature="e#15668#16129#0" expanded="false" />
+            <element signature="n#!!block;n#generateCap#0;n#!!block;n#_creatCylGeo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#17261#17898#0" expanded="false" />
+            <element signature="n#!!block;n#planeData#0;n#!!block;n#_creatCylGeo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#_getPolygonPerimeter#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#_updateSectorData#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#19220#19544#0" expanded="false" />
+            <element signature="n#!!block;n#createLine#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#20788#21204#0" expanded="false" />
+            <element signature="e#21668#22338#0" expanded="false" />
+            <element signature="n#!!block;n#_updatePointData#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#23402#23493#0" expanded="false" />
+            <element signature="e#23545#24029#0" expanded="false" />
+            <element signature="e#24498#24734#0" expanded="false" />
+            <element signature="n#!!block;n#createTags#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#25607#25717#0" expanded="false" />
+            <element signature="e#26242#26368#0" expanded="false" />
+            <element signature="n#!!block;n#ceilPowerOfTwo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#createCanvasN#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#createCanvasT#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#28897#28924#0" expanded="false" />
+            <element signature="n#!!block;n#animation#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#renderers#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#disposeObj#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#objectTraverse#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#disposeMaterial#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#toFunction#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#getWH#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#detector#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#parseCts#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#creatContainer#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#creatError#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+          <folding>
+            <element signature="e#1460#2150#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/base.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#340#538#0" expanded="false" />
+            <element signature="e#557#568#0" expanded="false" />
+            <element signature="e#2198#2971#0" expanded="false" />
+            <element signature="e#3027#3085#0" expanded="false" />
+            <element signature="e#3125#3190#0" expanded="false" />
+            <element signature="e#3236#3305#0" expanded="false" />
+            <element signature="n#!!block;n#initiate#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#4282#4758#0" expanded="false" />
+            <element signature="e#4793#5405#0" expanded="false" />
+            <element signature="e#6942#6972#0" expanded="false" />
+            <element signature="e#7498#8517#0" expanded="false" />
+            <element signature="e#8552#10179#0" expanded="false" />
+            <element signature="e#10220#10401#0" expanded="false" />
+            <element signature="e#10426#10648#0" expanded="false" />
+            <element signature="n#!!block;n#initObject3D#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#createSector#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#_creatCylGeo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#14426#15591#0" expanded="false" />
+            <element signature="e#15668#16129#0" expanded="false" />
+            <element signature="n#!!block;n#generateCap#0;n#!!block;n#_creatCylGeo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#17261#17898#0" expanded="false" />
+            <element signature="n#!!block;n#planeData#0;n#!!block;n#_creatCylGeo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#_getPolygonPerimeter#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#_updateSectorData#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#19220#19544#0" expanded="false" />
+            <element signature="n#!!block;n#createLine#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#20788#21204#0" expanded="false" />
+            <element signature="e#21668#22338#0" expanded="false" />
+            <element signature="n#!!block;n#_updatePointData#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#23402#23493#0" expanded="false" />
+            <element signature="e#23545#24029#0" expanded="false" />
+            <element signature="e#24498#24734#0" expanded="false" />
+            <element signature="n#!!block;n#createTags#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#25607#25717#0" expanded="false" />
+            <element signature="e#26242#26368#0" expanded="false" />
+            <element signature="n#!!block;n#ceilPowerOfTwo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#createCanvasN#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#createCanvasT#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#28897#28924#0" expanded="false" />
+            <element signature="n#!!block;n#animation#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#renderers#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#disposeObj#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#objectTraverse#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#disposeMaterial#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#toFunction#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#getWH#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#detector#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#parseCts#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#creatContainer#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#creatError#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1460#2150#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/base.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="19" />
+          <folding>
+            <element signature="e#340#538#0" expanded="false" />
+            <element signature="e#557#568#0" expanded="false" />
+            <element signature="e#2198#2971#0" expanded="false" />
+            <element signature="e#3027#3085#0" expanded="false" />
+            <element signature="e#3125#3190#0" expanded="false" />
+            <element signature="e#3236#3305#0" expanded="false" />
+            <element signature="n#!!block;n#initiate#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#4282#4758#0" expanded="false" />
+            <element signature="e#4793#5405#0" expanded="false" />
+            <element signature="e#6942#6972#0" expanded="false" />
+            <element signature="e#7498#8517#0" expanded="false" />
+            <element signature="e#8552#10179#0" expanded="false" />
+            <element signature="e#10220#10401#0" expanded="false" />
+            <element signature="e#10426#10648#0" expanded="false" />
+            <element signature="n#!!block;n#initObject3D#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#createSector#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#_creatCylGeo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#14426#15591#0" expanded="false" />
+            <element signature="e#15668#16129#0" expanded="false" />
+            <element signature="n#!!block;n#generateCap#0;n#!!block;n#_creatCylGeo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#17261#17898#0" expanded="false" />
+            <element signature="n#!!block;n#planeData#0;n#!!block;n#_creatCylGeo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#_getPolygonPerimeter#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#_updateSectorData#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#19220#19544#0" expanded="false" />
+            <element signature="n#!!block;n#createLine#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#20788#21204#0" expanded="false" />
+            <element signature="e#21668#22338#0" expanded="false" />
+            <element signature="n#!!block;n#_updatePointData#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#23402#23493#0" expanded="false" />
+            <element signature="e#23545#24029#0" expanded="false" />
+            <element signature="e#24498#24734#0" expanded="false" />
+            <element signature="n#!!block;n#createTags#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#25607#25717#0" expanded="false" />
+            <element signature="e#26242#26368#0" expanded="false" />
+            <element signature="n#!!block;n#ceilPowerOfTwo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#createCanvasN#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#createCanvasT#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#28897#28924#0" expanded="false" />
+            <element signature="n#!!block;n#animation#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#renderers#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#disposeObj#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#objectTraverse#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#disposeMaterial#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#toFunction#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#getWH#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#detector#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#parseCts#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#creatContainer#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#creatError#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/tbase.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1914">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../泰州电业局能源大数据中心建设项目_2019_11_15_SVG/铁轨代码注入.js" />
+    <entry file="file://$PROJECT_DIR$/images/sector.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/point.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/04.png" />
+    <entry file="file://$PROJECT_DIR$/../../../智慧镇江项目/代码注入/代码注入.js" />
+    <entry file="file://$PROJECT_DIR$/../../代码注入.js" />
+    <entry file="file://$PROJECT_DIR$/js/markUtil.min.LLL.js" />
+    <entry file="file://$PROJECT_DIR$/js/base.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="228" column="54" lean-forward="true" selection-start-line="228" selection-start-column="54" selection-end-line="228" selection-end-column="54" />
+          <folding>
+            <element signature="e#340#538#0" expanded="false" />
+            <element signature="e#557#568#0" expanded="false" />
+            <element signature="e#2198#2971#0" expanded="false" />
+            <element signature="e#3027#3085#0" expanded="false" />
+            <element signature="e#3125#3190#0" expanded="false" />
+            <element signature="e#3236#3305#0" expanded="false" />
+            <element signature="n#!!block;n#initiate#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#4282#4758#0" expanded="false" />
+            <element signature="e#4793#5405#0" expanded="false" />
+            <element signature="e#6942#6972#0" expanded="false" />
+            <element signature="e#7498#8517#0" expanded="false" />
+            <element signature="e#8552#10179#0" expanded="false" />
+            <element signature="e#10220#10401#0" expanded="false" />
+            <element signature="e#10426#10648#0" expanded="false" />
+            <element signature="n#!!block;n#initObject3D#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#createSector#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#_creatCylGeo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#14426#15591#0" expanded="false" />
+            <element signature="e#15668#16129#0" expanded="false" />
+            <element signature="n#!!block;n#generateCap#0;n#!!block;n#_creatCylGeo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#17261#17898#0" expanded="false" />
+            <element signature="n#!!block;n#planeData#0;n#!!block;n#_creatCylGeo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#_getPolygonPerimeter#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#_updateSectorData#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#19220#19544#0" expanded="false" />
+            <element signature="n#!!block;n#createLine#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#20788#21204#0" expanded="false" />
+            <element signature="e#21668#22338#0" expanded="false" />
+            <element signature="n#!!block;n#_updatePointData#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#23402#23493#0" expanded="false" />
+            <element signature="e#23545#24029#0" expanded="false" />
+            <element signature="e#24498#24734#0" expanded="false" />
+            <element signature="n#!!block;n#createTags#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#25607#25717#0" expanded="false" />
+            <element signature="e#26242#26368#0" expanded="false" />
+            <element signature="n#!!block;n#ceilPowerOfTwo#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#createCanvasN#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#createCanvasT#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="e#28897#28924#0" expanded="false" />
+            <element signature="n#!!block;n#animation#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#renderers#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#disposeObj#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#objectTraverse#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#disposeMaterial#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#toFunction#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#getWH#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#detector#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#parseCts#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#creatContainer#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#creatError#0;n#!!block;n#ThreeInitialize#0;n#ThreeInitialize#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="55" column="29" lean-forward="false" selection-start-line="55" selection-start-column="27" selection-end-line="55" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/markUtil.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="361" column="55" lean-forward="false" selection-start-line="361" selection-start-column="50" selection-end-line="361" selection-end-column="55" />
+          <folding>
+            <element signature="e#16#5454#0" expanded="false" />
+            <element signature="e#44#480#0" expanded="false" />
+            <element signature="e#511#1075#0" expanded="false" />
+            <element signature="e#1105#1719#0" expanded="false" />
+            <element signature="e#1766#2952#0" expanded="false" />
+            <element signature="e#2472#2502#0" expanded="false" />
+            <element signature="e#2984#3915#0" expanded="false" />
+            <element signature="e#3946#5441#0" expanded="false" />
+            <element signature="e#5473#5642#0" expanded="false" />
+            <element signature="e#5662#5813#0" expanded="false" />
+            <element signature="e#5842#7174#0" expanded="false" />
+            <element signature="e#5853#6004#0" expanded="false" />
+            <element signature="e#6014#6864#0" expanded="false" />
+            <element signature="e#6877#7172#0" expanded="false" />
+            <element signature="n#!!block;n#createTags#0" expanded="false" />
+            <element signature="e#7983#8077#0" expanded="false" />
+            <element signature="e#8376#8945#0" expanded="false" />
+            <element signature="e#8565#8675#0" expanded="false" />
+            <element signature="n#!!block;n#ceilPowerOfTwo#0" expanded="false" />
+            <element signature="n#!!block;n#createCanvasN#0" expanded="false" />
+            <element signature="e#10856#10883#0" expanded="false" />
+            <element signature="e#11415#26083#0" expanded="false" />
+            <element signature="e#11560#12016#0" expanded="false" />
+            <element signature="e#12062#20235#0" expanded="false" />
+            <element signature="e#12289#12793#0" expanded="false" />
+            <element signature="e#12834#13133#0" expanded="false" />
+            <element signature="e#13413#13700#0" expanded="false" />
+            <element signature="e#14218#14290#0" expanded="false" />
+            <element signature="e#14482#14540#0" expanded="false" />
+            <element signature="e#14598#20045#0" expanded="false" />
+            <element signature="e#15468#16733#0" expanded="false" />
+            <element signature="e#16818#17323#0" expanded="false" />
+            <element signature="e#17766#19502#0" expanded="false" />
+            <element signature="e#18562#19263#0" expanded="false" />
+            <element signature="e#19537#20009#0" expanded="false" />
+            <element signature="e#20296#21704#0" expanded="false" />
+            <element signature="e#21927#22343#0" expanded="false" />
+            <element signature="e#22877#23547#0" expanded="false" />
+            <element signature="e#24007#25811#0" expanded="false" />
+            <element signature="e#24655#24746#0" expanded="false" />
+            <element signature="e#25245#25493#0" expanded="false" />
+            <element signature="e#25857#26081#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="27" column="42" lean-forward="true" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+          <folding>
+            <element signature="e#1460#2150#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

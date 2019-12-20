@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>云浮新兴供电局可视化</title>
+    <script src="lib/jquery.js"></script>
+
+    <!--<script src="src/imageLoad.js"></script>-->
+    <script src="src/three_98LLL.js"></script>
+    <!--<script src="src/treeInitialize.js"></script>-->
+    <script src="src/treeInitialize.min.js"></script>
+
+    <style type="text/css">
+        html { width:100%; height:100%; }
+        body { margin:0;background: #175ce5;width:100%;height:100%; }
+        div#canvas-frame {
+            width:100%; height:100%;
+            background:#1E1F22;
+            margin:0;position:relative;
+        }
+    </style>
+
+    <script>
+
+        var ThrInit = null;
+        function start() {
+
+            ThrInit = new treeInitialize(false);
+
+            ThrInit.init( 'canvas-frame',{
+                camera: { position: [ 122.87093472807463,372.39306991095407,462.7625413836392 ] },
+                controls: {
+                    screenSpacePanning: true, enablePan_UP: true,
+                    target:[15.242445192786116,-119.00806261367991,-108.33602695410008]
+                },
+                scene:{
+                    color:0x091A55,
+                    fog:{
+                        enabled:true,near: 800, far: 1000,color:0x091A55
+                    }
+                },
+                pip:{ space:1.0},
+                particle:{ count:30, size:22, space:0.4 },
+                cylin:{ opa_c:0.2, opa_p:0.5, opa_r:0.2 },
+                point:{ X:[-322,387], Z:[-220,228], Y:50, count:30, moveDis: 40 },
+                title:{
+                    color:0xffffff,
+                    size:15,
+                    font:'隶书'
+                },
+                anim:{//动画数据
+                    duration: 1500,
+                    position:[169.2313918826516,253.0415568345756,180.06569389870967],
+                    target:[113.85192928887908,10.937306567460801,-9.315328745879292]
+                }
+            });
+
+            //站点数据
+            var sites = {
+                '良田站': new THREE_98.Vector3( 317.96628122270783,15.4,-107.4073231760420),
+                '水台站': new THREE_98.Vector3( 299.53433580173703,15.4,-49.24274060348021),
+                '稔村站': new THREE_98.Vector3(225.33745279698806,15.4,-105.270286033707),
+                '布乾站': new THREE_98.Vector3( 176.6064413381223,15.4,-93.53521273451197),
+                '蕉山站': new THREE_98.Vector3( 92.96949099355916,15.4,-23.609435532993242),
+                '兴瑶站': new THREE_98.Vector3( 131.24417961692004,15.4,-180.44751169063443),
+                '黄岗站': new THREE_98.Vector3( 59.98480354425709,15.4,-207.0041676604674),
+                '车岗站': new THREE_98.Vector3( 23.709588709338085,15.4,-239.58641849899647),
+                '泰安站': new THREE_98.Vector3( 51.825521541662795,15.4,-149.22049264335755),
+                '凤凰站': new THREE_98.Vector3( 1.6117395805821104,15.4,-177.80606990946217),
+                '飞鹅亭站': new THREE_98.Vector3( -34.098734461743234,15.4,-125.95843347279022),
+                '六祖站': new THREE_98.Vector3( 9.877125391612601,15.4,-56.28234603729853),
+                '簕竹站': new THREE_98.Vector3( -110.72838618298343,15.4,-149.85460947478592),
+                '集成站': new THREE_98.Vector3( -29.516312648961474,15.4,3.1261157267224804),
+                '里洞站': new THREE_98.Vector3( -12.559989053161786,15.4,199.06110083712917),
+                '大江站': new THREE_98.Vector3( -125.5420610235912,15.4,163.0312636576228),
+                '天堂站': new THREE_98.Vector3( -248.11808079505235,15.4,47.15426833191145),
+                //
+                '中间': new THREE_98.Vector3( 29.062055806436994,15.4,-75.08495972425563),
+                '主要用户': new THREE_98.Vector3( 56.48777375096345,15.4,-63.62405273762601),
+                '储能': new THREE_98.Vector3( 142.06415554139608,15.4,-51.78423029345584),
+                '水电': new THREE_98.Vector3( 78.39240023878591,15.4,85.06708909147862),
+                '变压器': new THREE_98.Vector3( 85.54989911778988,15.4,36.183438745502194)
+            };
+            //光柱数据-粉红：0xF81E61;黄：0xf0df2b;橘黄：0xf0ae2b
+            var points = [
+                {
+                    point:sites['良田站'],hight:35,radius:12,color:0xe27707,speed:0.1,scale:0.4,name:'良田站',visible: true,
+                    url:''
+                },{
+                    point:sites['蕉山站'],hight:35,radius:12,color:0xf0df2b,speed:0.1,scale:0.4,name:'焦山站',visible: true
+                },{
+                    point:sites['水台站'],hight:40,radius:12,color:0xf0df2b,speed:0.1,scale:0.4,name:'水台站',visible: true
+                },{
+                    point:sites['稔村站'],hight:38,radius:12,color:0xe27707,speed:0.12,scale:0.4,name:'稔村站',visible: true
+                },{
+                    point:sites['布乾站'],hight:36,radius:12,color:0xf0df2b,speed:0.08,scale:0.4,name:'布乾站',visible: true
+                },{
+                    point:sites['兴瑶站'],hight:40,radius:12,color:0xF81E61,speed:0.1,scale:0.4,name:'兴瑶站',visible: true
+                },{
+                    point:sites['黄岗站'],hight:37,radius:12,color:0xe27707,speed:0.1,scale:0.4,name:'黄岗站',visible: true
+                },{
+                    point:sites['车岗站'],hight:39,radius:12,color:0xe27707,speed:0.1,scale:0.4,name:'车岗站',visible: true
+                },{
+                    point:sites['泰安站'],hight:35,radius:12,color:0xe27707,speed:0.1,scale:0.4,name:'泰安站',visible: true
+                },{
+                    point:sites['凤凰站'],hight:40,radius:12,color:0xe27707,speed:0.1,scale:0.4,name:'凤凰站',visible: true
+                },{
+                    point:sites['飞鹅亭站'],hight:36,radius:12,color:0xe27707,speed:0.1,scale:0.4,name:'飞鹅亭站',visible: true
+                },{
+                    point:sites['六祖站'],hight:38,radius:12,color:0xe27707,speed:0.1,scale:0.4,name:'六祖站',visible: true
+                },{
+                    point:sites['簕竹站'],hight:35,radius:12,color:0xf0df2b,speed:0.1,scale:0.4,name:'簕竹站',visible: true
+                },{
+                    point:sites['集成站'],hight:39,radius:12,color:0xf0df2b,speed:0.1,scale:0.4,name:'集成站',visible: true
+                },{
+                    point:sites['里洞站'],hight:37,radius:12,color:0xf0df2b,speed:0.1,scale:0.4,name:'里洞站',visible: true
+                },{
+                    point:sites['大江站'],hight:40,radius:12,color:0xe27707,speed:0.1,scale:0.4,name:'大江站',visible: true
+                },{
+                    point:sites['天堂站'],hight:35,radius:12,color:0xe27707,speed:0.1,scale:0.4,name:'天堂站',visible: true
+                },
+                //
+                {
+                    point:sites['主要用户'],hight:30,radius:7,color:0xe27707,speed:0.1,scale:0.4,name:'主要用户',visible: false
+                },
+                {
+                    point:sites['储能'],hight:15,radius:5,color:0xe27707,speed:0.1,scale:0.4,name:'储能',visible: false
+                },
+                {
+                    point:sites['水电'],hight:25,radius:4,color:0xe27707,speed:0.1,scale:0.4,name:'水电',visible: false
+                },
+                {
+                    point:sites['变压器'],hight:15,radius:7,color:0xe27707,speed:0.1,scale:0.4,name:'变压器',visible: false
+                }
+            ];
+            //路网数据
+            var pipData = [
+                //黄色--0xFFFF00
+                {//布乾站->稔村站
+                    data: [
+                        sites['布乾站'],
+                        sites['稔村站']
+                    ],seg: 180,color:0xFFFF00,isDouble:true
+                },
+                {//布乾站->水台站
+                    data: [
+                        sites['布乾站'],
+                        sites['水台站']
+                    ],seg: 180,color:0xFFFF00,isDouble:false
+                },
+                {//水台站->良田站
+                    data: [
+                        sites['水台站'],
+                        sites['良田站']
+                    ],seg: 180,color:0xFFFF00,isDouble:true
+                },
+                {//飞鹅亭站->蕉山站
+                    data: [
+                        sites['飞鹅亭站'],
+                        sites['蕉山站']
+                    ],seg: 180,color:0xFFFF00,isDouble:true,isSave:true
+                },
+                {//飞鹅亭站->集成站
+                    data: [
+                        sites['飞鹅亭站'],
+                        sites['集成站']
+                    ],seg: 180,color:0xFFFF00,isDouble:false
+                },
+                {//簕竹站->飞鹅亭站
+                    data: [
+                        sites['簕竹站'],
+                        sites['飞鹅亭站']
+                    ],seg: 180,color:0xFFFF00,isDouble:false
+                },
+                {//簕竹站->凤凰站
+                    data: [
+                        sites['簕竹站'],
+                        sites['凤凰站']
+                    ],seg: 180,color:0xFFFF00,isDouble:true
+                },
+                {//里洞站->飞鹅亭站
+                    data: [
+                        sites['里洞站'],
+                        sites['飞鹅亭站']
+                    ],seg: 180,color:0xFFFF00,isDouble:false
+                },
+                {//集成站->里洞站
+                    data: [
+                        sites['集成站'],
+                        sites['里洞站']
+                    ],seg: 180,color:0xFFFF00,isDouble:true
+                },
+                //红色--0xFF0000
+                {//良田站->布乾站
+                    data: [
+                        sites['良田站'],
+                        sites['布乾站']
+                    ],seg: 180,color:0xFF0000,isDouble:false
+                },
+                {//布乾站->兴瑶站
+                    data: [
+                        sites['布乾站'],
+                        sites['兴瑶站']
+                    ],seg: 180,color:0xFF0000,isDouble:false
+                },
+                {//兴瑶站->良田站
+                    data: [
+                        sites['兴瑶站'],
+                        sites['良田站']
+                    ],seg: 180,color:0xFF0000,isDouble:false
+                },
+                {//兴瑶站->六祖站
+                    data: [
+                        sites['兴瑶站'],
+                        sites['六祖站']
+                    ],seg: 180,color:0xFF0000,isDouble:false
+                },
+                {//兴瑶站->泰安站
+                    data: [
+                        sites['兴瑶站'],
+                        sites['泰安站']
+                    ],seg: 180,color:0xFF0000,isDouble:true
+                },
+                {//兴瑶站->黄岗站
+                    data: [
+                        sites['兴瑶站'],
+                        sites['黄岗站']
+                    ],seg: 180,color:0xFF0000,isDouble:true
+                },
+                {//黄岗站->凤凰站
+                    data: [
+                        sites['黄岗站'],
+                        sites['凤凰站']
+                    ],seg: 180,color:0xFF0000,isDouble:false
+                },
+                {//凤凰站->飞鹅亭站
+                    data: [
+                        sites['凤凰站'],
+                        sites['飞鹅亭站']
+                    ],seg: 180,color:0xFF0000,isDouble:false
+                },
+                {//飞鹅亭站->兴瑶站
+                    data: [
+                        sites['飞鹅亭站'],
+                        sites['兴瑶站']
+                    ],seg: 180,color:0xFF0000,isDouble:false
+                },
+                {//飞鹅亭站->天堂站
+                    data: [
+                        sites['飞鹅亭站'],
+                        sites['天堂站']
+                    ],seg: 180,color:0xFF0000,isDouble:true
+                },
+                {//六祖站->大江站
+                    data: [
+                        sites['六祖站'],
+                        sites['大江站']
+                    ],seg: 180,color:0xFF0000,isDouble:true
+                },
+                //
+                {//储能->主要用户
+                    data: [
+                        sites['储能'],
+                        sites['主要用户']
+                    ],seg: 180,color:0xFFFF00,isDouble:false,other:true,index:1,space:0.6
+                },
+                {//变压器->主要用户
+                    data: [
+                        sites['变压器'],
+                        sites['主要用户']
+                    ],seg: 180,color:0xFFFF00,isDouble:false,other:true,index:3,space:0.6
+                },
+                {//变压器->储能
+                    data: [
+                        sites['变压器'],
+                        sites['储能']
+                    ],seg: 180,color:0xFFFF00,isDouble:false,other:true,index:4,space:0.6
+                },
+                {//水电->变压器
+                    data: [
+                        sites['水电'],
+                        sites['变压器']
+                    ],seg: 180,color:0xFFFF00,isDouble:false,other:true,index:2,space:0.6
+                },
+                {//飞鹅亭站->中间
+                    data: [
+                        sites['飞鹅亭站'],
+                        sites['中间']
+                    ],seg: 180,color:0xFFFF00,isDouble:false,other:true,index:5
+                },
+                {//中间->蕉山站
+                    data: [
+                        sites['中间'],
+                        sites['蕉山站']
+                    ],seg: 180,color:0xFF0000,isDouble:false,other:true,index:6
+                }
+            ];
+
+            ThrInit.loadFBX('models/model.FBX',points,pipData);
+
+            ThrInit.render();
+        }
+
+        function back(){
+
+            ThrInit && ThrInit.backHome();
+        }
+
+    </script>
+
+</head>
+<body onload="start()">
+    <button onclick="back()">返回</button>
+    <div id="canvas-frame"></div>
+</body>
+</html>

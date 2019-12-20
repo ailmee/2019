@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>svg图标效果</title>
+
+    <script src="lib/jquery.js"></script>
+    <script src="lib/tbase.js"></script>
+    <script src="lib/OrbitControls.js"></script>
+
+    <script src="js/base.js"></script>
+
+    <style type="text/css">
+        html { width:100%; height:100%;background: #1b78cb }
+        body { margin:0;background: url("images/bg.png") center center no-repeat;background-size: 100% 100%;width:100%;height:100%; }
+        div#canvas-frame {
+            width:100%;
+            height:100%;
+            /*background:rgba(0,0,0,0.4);*/
+        }
+    </style>
+
+    <script>
+
+        function start() {
+
+            var ThrInit = new ThreeInitialize();
+            ThrInit.init( 'canvas-frame',{
+                line:{
+                    tagType:'type2',
+
+                    num: 5,
+                    colors:['#16fff0'],
+                    size:80,
+                    path:'images/particle.png',
+                    width:2,
+                    lLength: 28
+                },
+                tag:{
+                    type2:{
+                        zSize: 100,//字体大小
+                        color:'#ffffff',//字体颜色
+                        space: 50,//间距
+                        borderColor: '#14c4b5',//边框颜色
+                        lineWidth: 6,//边框宽度
+
+                        size:3.5,//大小
+                        offsetY:2//上升偏移值
+                    },
+                    type1:{
+                        title:{
+
+                            color:'#ffffff',//字体颜色
+                            zSize: 100,//字体大小
+                            strokeStyle: '#000000',//字体描边色
+                            lineWidth: 2,//绘制线宽度
+
+                            size:6,//大小
+                            offsetY:0.9//上升偏移值
+                        },
+
+                        zSize: 100,//字体大小
+                        color:'#ffff00',//字体颜色
+                        borderColor: '#ffff00',//边框颜色
+                        lineWidth: 5,//边框宽度
+                        space: 200,//间距
+
+                        size:3.5,//图片大小
+                        offsetY:0.4//图片上升偏移值
+                    }
+                },
+                sector:{
+                    tagType:'type1',
+
+                    num: 5,
+
+                    height: 10,
+                    width: 14,
+
+                    lineColor:"#E1FF32",
+                    lineHeight: 18,
+                    offsetY: 0.1,
+
+                    offset: [0.06,0.05],
+                    path:'images/sector.png',
+                    color: "#FFFD00",
+
+                    rTop: 0.5,
+                    rBottom:0.15,
+                    seg: 32
+                }
+            });
+
+            ThrInit.render();
+        }
+
+    </script>
+</head>
+<body onload="start()">
+<div id="canvas-frame"></div>
+</body>
+</html>

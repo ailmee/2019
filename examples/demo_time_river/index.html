@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>时间河流</title>
+
+    <script src="lib/jquery.js"></script>
+    <script src="lib/tbase.js"></script>
+
+    <script src="js/TimeRiverInitialize.js"></script>
+
+    <style type="text/css">
+        html { width:1646px; height:926px }
+        body {
+            margin:0;
+            /*background:#061534;*/
+            background: url("images/bg0.png") center center no-repeat;
+            background-size: 100% 100%;
+            width:100%;height:100%
+        }
+        div#canvas-frame {
+            position:absolute;
+            width:1550px;
+            height:160px;
+            left: 90px;
+            top: 370px;
+            background:rgba(0,0,0,0.0);
+            margin:0;
+        }
+    </style>
+    <script>
+
+        function start() {
+            var timeRiver = new TimeRiverInitialize();
+            timeRiver.init( 'canvas-frame',{
+                flow: {//流动粒子参数
+
+                    count: 1000,//粒子密度
+                    path:'images/particle.png',//粒子图片路径
+                    size: .25,//粒子大小
+                    color: '#ffffff',//粒子颜色
+                    opacity: 1,//透明值
+                    perTimes: 20,//运动周期
+                    raidus: 1.8//上下范围值
+                },
+                belt: {//流动彩带参数
+                    color: '#0f8fd2',//颜色
+                    offsetY:[1.176116949502294, 0.43012215219816685, 0.47925272291936727, 1.3810240575820854, 0.012960802959123718, 1.8632393768755033, 1.8325562526272345, 0.0979442674684905],//y轴起点
+//                    offsetY:[],
+                    sizeY: 0.04,//粗细
+                    count: 8//条数
+                }
+            });
+            timeRiver.render();
+        }
+
+    </script>
+</head>
+<body onload="start();">
+    <div id="canvas-frame"></div>
+    <!--<div id="stop" style="-->
+    <!--width: 75px;-->
+    <!--height: 70px;-->
+    <!--background-color: #deb887;-->
+    <!--position: absolute;-->
+    <!--top: 605px;-->
+    <!--left: 193px;-->
+    <!--"></div>-->
+</body>
+</html>
